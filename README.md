@@ -9,7 +9,7 @@
  </a> 
 </p> 
   
-<p  align="center"><a href="https://bhoskarpooja.github.io/"><img width="80%" height="60%" src="https://media.giphy.com/media/iQ48wWbv3BZIDbmaiK/giphy.gif" /></a></p>
+<p  align="center"><a href="https://mahiwattamwar.github.io/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" height="175px"/></a></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja</h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
