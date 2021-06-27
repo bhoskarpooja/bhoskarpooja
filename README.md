@@ -61,8 +61,7 @@
 </a>
 </p>
  <p>
- 
-<iframe align="left" height="280" width="400" src="https://gifer.com/embed/7ImI" width=480 height=302.118 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
+
 
 
   
@@ -88,7 +87,7 @@ Thank you so much for visiting my tiny space on [GitHub](https://bhoskarpooja.gi
 <hr>
 <div align="center">
  
- ![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoskarpooja&show_icons=true&theme=radical)
+ ![pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoskarpooja&show_icons=true&theme=radical)
 
  </div>
  <p><img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></p>
