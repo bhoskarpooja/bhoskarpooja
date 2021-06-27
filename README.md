@@ -55,6 +55,9 @@
 </p>
 
 ## ❤ Views and Followers
+ 
+ <img align="left" height="280" width="400" src="https://media.giphy.com/media/iQ48wWbv3BZIDbmaiK/giphy.gif">
+
   <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
