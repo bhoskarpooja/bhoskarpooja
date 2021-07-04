@@ -79,10 +79,11 @@ Thank you so much for visiting my tiny space on [GitHub](https://bhoskarpooja.gi
 </p>
 
 <br>
+<br>
 <p> 
   <h2 align="center">Visitors count</h2>
  </p>
- 
+ <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/bhoskarpooja/count.svg" />
 </p>
