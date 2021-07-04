@@ -81,16 +81,16 @@ Thank you so much for visiting my tiny space on [GitHub](https://bhoskarpooja.gi
 <br>
 <p> 
   <h2 align="center">Visitors count</h2>
-</p>
-<!-- 
+ </p>
+ 
 <p align="center">
   <img src="https://profile-counter.glitch.me/bhoskarpooja/count.svg" />
 </p>
-<br> -->
+<br>
 <hr>
-<div align="center">
+<!-- <div align="center">
  
  ![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoskarpooja&show_icons=true&theme=radical)  
- </div>
+ </div> -->
  <p><img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /></p>
 
