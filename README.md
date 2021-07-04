@@ -82,11 +82,11 @@ Thank you so much for visiting my tiny space on [GitHub](https://bhoskarpooja.gi
 <p> 
   <h2 align="center">Visitors count</h2>
 </p>
-
+<!-- 
 <p align="center">
   <img src="https://profile-counter.glitch.me/bhoskarpooja/count.svg" />
 </p>
-<br>
+<br> -->
 <hr>
 <div align="center">
  
