@@ -56,7 +56,7 @@
 
 ## ❤ Views and Followers
  
- <img align="left" height="280" width="400" src="https://media.giphy.com/media/iQ48wWbv3BZIDbmaiK/giphy.gif">
+ <img align="left" height="280" width="400" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
   <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
