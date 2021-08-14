@@ -10,7 +10,7 @@
 </p> 
   
 <p  align="center"><a href="https://bhoskarpooja.github.io/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" height="175px"/></a></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooju😉</h1>
 <h3 align="center">I Enjoy Developing ideas that live on the internet, whether that be a website, application or anything related.</h3>
 
   <p>I'm Pooja Bhoskar, a B.Tech (Information Technology) Student Based in Nanded ,Maharashtra. My goal is to develop products that provide performant,responsive experience. I am currently pursuing my degree from <a target="_blank" href="https://www.sggs.ac.in/">SGGSIE&T</a> Nanded.  I am tech enthusiast, I love to build Full stack Application and currently focusing on React, Material UI and Frontend Frameworks.  </p>
