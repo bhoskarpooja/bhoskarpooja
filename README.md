@@ -15,8 +15,9 @@
  
  
  
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoskarpooja)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoskarpooja)](https://github.com/anuraghazra/github-readme-stats)
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhoskarpooja&theme=radical&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
  
  
  
