@@ -15,13 +15,13 @@
  
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoskarpooja)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoskarpooja)](https://github.com/anuraghazra/github-readme-stats)
+ -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhoskarpooja&theme=radical&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
  
  
  
- 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoskarpooja&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
@@ -133,9 +133,9 @@ Thank you so much for visiting my tiny space on [GitHub](https://bhoskarpooja.gi
 <br>
 <hr>
 
-<!-- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoskarpooja&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
+
+ 
 
 
 
