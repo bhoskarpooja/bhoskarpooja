@@ -132,9 +132,9 @@ Thank you so much for visiting my tiny space on [GitHub](https://bhoskarpooja.gi
 <br>
 <hr>
 
-
+<!-- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoskarpooja&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 
 
