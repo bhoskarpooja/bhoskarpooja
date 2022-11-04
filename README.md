@@ -8,6 +8,37 @@
 <a href="https://stackoverflow.com/users/16235813/pooja-bhoskar"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
 </p> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   
 <p  align="center"><a href="https://bhoskarpooja.github.io/"><img width="100%" height="auto" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" height="175px"/></a></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Pooju Here..😉</h1>
